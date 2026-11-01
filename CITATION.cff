@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or the archived numerical results, please cite the associated article."
+type: software
+title: "Log-Transformed Red-Tailed Hawk Optimization for Single-Diode PV Parameter Extraction"
+authors:
+  - family-names: "El Aamery"
+    given-names: "Salma"
+  - family-names: "El Bachtiri"
+    given-names: "Rachid"
+date-released: 2026-08-14
+version: 1.0.0
+doi: 10.1016/j.nxener.2026.100879
+url: "https://doi.org/10.1016/j.nxener.2026.100879"
+preferred-citation:
+  type: article
+  title: "Log-Transformed Red-Tailed Hawk Optimization for Single-Diode Photovoltaic Parameter Extraction"
+  authors:
+    - family-names: "El Aamery"
+      given-names: "Salma"
+    - family-names: "El Bachtiri"
+      given-names: "Rachid"
+  journal: "Next Energy"
+  year: 2026
+  doi: 10.1016/j.nxener.2026.100879

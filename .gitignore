@@ -1,0 +1,21 @@
+# MATLAB temporary files and autosaves
+*.asv
+*.autosave
+*.m~
+*.mex*
+slprj/
+.matlab-prefs/
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# LaTeX build products
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.spl
+*.synctex.gz
