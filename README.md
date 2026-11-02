@@ -54,4 +54,4 @@ Please cite both the article above and this repository. Citation metadata are av
 
 ## License
 
-The repository must receive a software license before it is made public. The recommended option is MIT, provided that all included MATLAB implementations are authored by the authors or can legally be redistributed under that license.
+This repository is released under the [MIT License](LICENSE).
